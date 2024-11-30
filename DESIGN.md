@@ -70,7 +70,7 @@ The purpose of this database is to manage a library system, focusing on the foll
 - **Books ↔ Loans**:
   - A one-to-many relationship. One book can have multiple loan records, but each loan references a single book.
 
-![Entity Relationship Diagram](diagram.jpg)
+![Entity Relationship Diagram](diagram.png)
 
 ---
 
